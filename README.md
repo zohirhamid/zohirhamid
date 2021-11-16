@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zohirhamid
+- 👀 I’m interested in back end develompent and Machine learning
+- 🌱 I’m currently learning python and C
+- 📫 you can reach me via Email : zohirhamid011@gmail.com
