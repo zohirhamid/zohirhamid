@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zohirhamid
 - 👀 I’m interested in back end develompent and Machine learning
-- 🌱 I’m currently learning Flutter
-- 📫 you can reach me via Email : zohirhamid011@gmail.com
+- 🌱 I’m currently learning Django
+- 📫 you can reach me via Email : zohir@zohirhamid.com
