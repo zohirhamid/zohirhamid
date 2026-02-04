@@ -8,12 +8,9 @@ Email: zohir@zohirhamid.com
 
 ## Projects
 
-💳 **FinWalletAPI** – Multi-tenant wallet & payment backend (Django, PostgreSQL, Redis, Docker)
-
-🤖 **Reviewbud** – AI review collection for restaurants • [reviewbud.co](https://reviewbud.co)
-
-📊 **Tracked** – Excel-style habit tracker with flexible data types
-
-✅ **Justdo** – Minimal todo app with drag-and-drop & tags
-
+- 🔐 **FinWalletAPI** — multi-tenant wallet & payments backend (Django, Redis, PostgreSQL, Docker)  
+- 🤖 **Reviewbud** — AI-powered review collection for restaurants [](https://reviewbud.co)  
+- 📊 **Tracked** — flexible, Excel-style habit tracker  
+- ✓ **Justdo** — minimal todo app with drag & drop + tags
+- 📱 **Present** — Flutter attendance tracker with QR codes & Excel export (team of 3)
 Open to backend and AI engineering roles.
