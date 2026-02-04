@@ -1,25 +1,19 @@
 # Zohir Hamid
 
-Backend-focused engineer. Python • Django • AI integration.
+Backend engineer  
+Python · Django · AI integration
 
 Email: zohir@zohirhamid.com  
-[LinkedIn](https://linkedin.com/in/zohirhamid) • [GitHub](https://github.com/zohirhamid)
+[LinkedIn](https://linkedin.com/in/zohirhamid)
 
 ## Projects
 
-- **FinWalletAPI**  
-  Multi-tenant wallet & payment backend. Django, PostgreSQL, Redis, Docker. Real-time transactions.
+💳 **FinWalletAPI** – Multi-tenant wallet & payment backend (Django, PostgreSQL, Redis, Docker)
 
-- **Reviewbud**  
-  AI-powered review collection for restaurants. OpenAI → polished Google reviews. Django REST Framework, Celery, Google Places sync.  
-  → [reviewbud.co](https://reviewbud.co) • [repo](https://github.com/zohirhamid/reviewbud)
+🤖 **Reviewbud** – AI review collection for restaurants • [reviewbud.co](https://reviewbud.co)
 
-- **Tracked**  
-  Excel-style habit tracker with flexible data types. Django, Google OAuth, PostgreSQL.  
-  → [repo](https://github.com/zohirhamid/tracked)
+📊 **Tracked** – Excel-style habit tracker with flexible data types
 
-- **Justdo**  
-  Minimal todo app. Drag-and-drop, tags. Clean backend focus.  
-  → [repo](https://github.com/zohirhamid/justdo)
+✅ **Justdo** – Minimal todo app with drag-and-drop & tags
 
-Open to backend / AI engineering roles or collabs.
+Open to backend and AI engineering roles.
