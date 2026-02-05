@@ -24,9 +24,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 </div>
 
-**Email:** zohir@zohirhamid.com  
-**LinkedIn:** [linkedin.com/in/zohirhamid](https://linkedin.com/in/zohirhamid)
-**Website** [zohirhamid.com/](https://zohirhamid.com/)
+**LinkedIn** · [zohirhamid](https://linkedin.com/in/zohirhamid)  
+**Website** · [zohirhamid.com](https://zohirhamid.com/)
 
 Backend engineer passionate about building scalable systems with **Python · Django · AI integration**
 
