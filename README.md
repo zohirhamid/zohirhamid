@@ -38,3 +38,5 @@ Backend engineer passionate about building scalable systems with **Python · Dja
 
 Open to backend and AI engineering roles.  
 Let’s build something great! 🚀
+
+"its everyday bro" - jake paul 2017.
